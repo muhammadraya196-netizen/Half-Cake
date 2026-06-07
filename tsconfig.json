@@ -10,7 +10,7 @@
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
-    "isolatetype .gitignoredModules": true,
+    
     "jsx": "preserve",
     "incremental": true,
     "baseUrl": ".",
